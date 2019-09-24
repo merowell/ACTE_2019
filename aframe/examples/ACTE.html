@@ -91,8 +91,8 @@ AFRAME.registerComponent('vidhandler', {
 
 
 
-	<!-- marker1: kanji -->
-    <a-marker preset='kanji' vidhandler="target: #gold">
+	<!-- marker1: hiro -->
+    <a-marker preset='hiro' id='marker-hiro' vidhandler="target: #gold">
          <!-- add transparent video (.webm) -->
         <a-plane  position='0 .3 0' width='3.3' height='1.87' rotation="-90 0 0" material='transparent:true;alphaTest:0;src:#gold'></a-plane>
 
@@ -125,8 +125,9 @@ AFRAME.registerComponent('vidhandler', {
 
 
 
-    <!-- marker2: hiro -->
-    <a-marker preset='hiro' vidhandler="target: #silver, #videonew">
+    <!-- marker2: CEV -->
+        <a-marker  vidhandler="target: #silver, #videonew" type='pattern' url='https://raw.githubusercontent.com/merowell/ACTE_2019/master/aframe/examples/assets/pattern-cev%20(10).patt'>
+
          <!-- add transparent video (.webm) -->
         <a-plane  position='0 .3 0' width='3.3' height='1.87' rotation="-90 0 0" material='transparent:true;alphaTest:0;src:#silver'></a-plane>
 
@@ -159,7 +160,7 @@ AFRAME.registerComponent('vidhandler', {
 
     <!-- marker3: hollywood star 1 -->
     <a-marker  
-    	vidhandler="target: #bronze, #videonew" type='pattern' url='https://raw.githubusercontent.com/merowell/custom-markers-with-video/master/aframe/examples/assets/hollywood-stars/patt/pattern-hollywood-star1.patt'>
+    	vidhandler="target: #bronze, #videonew" type='pattern' url='https://raw.githubusercontent.com/merowell/ACTE_2019/master/aframe/examples/assets/hollywood-stars/patt/pattern-hollywood-star1.patt'>
     
         <!-- add transparent video (.webm) -->
         <a-plane  position='0 .3 0' width='3' height='2' rotation="-90 0 0" material='transparent:true;alphaTest:0;src:#bronze'></a-plane>
@@ -191,29 +192,6 @@ AFRAME.registerComponent('vidhandler', {
 
 
 
-    	<!-- marker4: CEV -->
-    	<a-marker  vidhandler="target: #vid, #videonew" type='pattern' url='https://raw.githubusercontent.com/merowell/custom-markers-with-video/master/aframe/examples/assets/pattern-cev%20(10).patt'>
-
-    	<!-- add transparent video (.webm) -->
-        <a-plane  position='0 .3 0' width='3' height='2' rotation="-90 0 0" material='transparent:true;alphaTest:0;src:#vid'></a-plane>
-
-        <!-- add non transparent video (.mp4) -->
-        <a-plane  position='0 .2 0' width='1.5' height='1.5' rotation="-90 0 0" material='src:#videonew'></a-plane>
-   
-        <!-- add .obj model-->
-        <a-entity 
-        obj-model= 'obj: url(https://raw.githubusercontent.com/merowell/ACTE_2019/master/aframe/examples/assets/3d%20models/hollywood-star/hollywood-star.obj); 
-        mtl: url(https://raw.githubusercontent.com/merowell/ACTE_2019/master/aframe/examples/assets/3d%20models/hollywood-star/hollywood-star.mtl)' scale="0.3 0.3 0.3" position='0.0 .5 0' rotation='0 0 180'>
-        </a-entity>
-        <a-entity 
-        obj-model= 'obj: url(https://raw.githubusercontent.com/merowell/ACTE_2019/master/aframe/examples/assets/3d%20models/circle/circle.obj); 
-        mtl: url(https://raw.githubusercontent.com/merowell/ACTE_2019/master/aframe/examples/assets/3d%20models/circle/circle.mtl)' scale="0.1 0.1 0.1" position='0.0 .5 0'>
-        </a-entity>
-
-		<!-- add 3d text -->
-		<a-entity text-geometry="value: Golden" position='0.0 .6 0' rotation='270 90 270' material="color: yellow"></a-entity>
-    	<a-entity text-geometry="value: Winner; font: #optimerBoldFont" position='0.0 .6 .57' rotation='270 90 270' material="color: gray"></a-entity>
-    </a-marker>
  
 
 
