@@ -1,0 +1,125 @@
+Report created: 
+	9/24/2019	8:25:22 PM
+
+Project name: text-gold.aep
+
+Source files collected to: 
+	C:\Users\ProductionHP\Desktop\ACTE_2019\AE\text-gold folder
+
+Source files collected: All
+
+Collected comps:  
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Text
+	Title 01
+	Title 02
+	Title 03
+	Title 04
+	Title 05
+	Title 06
+	Title 07
+	Title 08
+	Title 09
+	Title 10
+	Title 11
+	Title 12
+	Title 13
+	Title 14
+	Title 15
+	Title 01 Edit Duration
+	Title 01 IN
+	Title 01 OUT
+	Title 02 Edit Duration
+	Title 02 IN
+	Title 02 OUT
+	Title 03 Edit Duration
+	Title 03 IN
+	Title 03 OUT
+	Title 04 Edit Duration
+	Title 04 IN
+	Title 04 OUT
+	Title 05 Edit Duration
+	Title 05 IN
+	Title 05 OUT
+	Title 06 Edit Duration
+	Title 06 IN
+	Title 06 OUT
+	Title 07 Edit Duration
+	Title 07 IN
+	Title 07 OUT
+	Title 08 Edit Duration
+	Title 08 IN
+	Title 08 OUT
+	Title 09 Edit Duration
+	Title 09 IN
+	Title 09 OUT
+	Title 10 Edit Duration
+	Title 10 IN
+	Title 10 OUT
+	Title 11 Edit Duration
+	Title 11 IN
+	Title 11 OUT
+	Title 12 Edit Duration
+	Title 12 IN
+	Title 12 OUT
+	Title 13 Edit Duration
+	Title 13 IN
+	Title 13 OUT
+	Title 14 Edit Duration
+	Title 14 IN
+	Title 14 OUT
+	Title 15 Edit Duration
+	Title 15 IN
+	Title 15 OUT
+	MASTER
+	
+Number of collected files:  15
+
+Size of collected files:  6.2 MB
+
+Collected source files: 
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\01.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\02.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\03.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\04.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\05.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\06.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\07.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\08.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\09.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\10.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\11.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\12.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\13.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\14.ai
+	C:\Users\ProductionHP\Desktop\Motion Array\Comic-titles-129018 (1)\After effects\Footages\15.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Color Control
+	
+Effect:  Fill
+	
+Effect:  Hue/Saturation
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “LuckiestGuy”, Font style: “Regular”
+
